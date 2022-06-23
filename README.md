@@ -1,2 +1,3 @@
-# k8s-manifest-repo
+Amazon EKS로 웹 애플리케이션 구축하기
+---
 K8S 관련 메니페스트가 위치한 레파지토리
